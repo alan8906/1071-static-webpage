@@ -1,0 +1,18 @@
+body{
+    background-color: #FFF9C4;
+}
+.container{
+    margin-top: 3rem;
+    text-align: center;
+}
+.content{
+    margin-top: 3rem;
+}
+p{
+    color: #0097A7;
+    font-size: 2rem;
+    margin-top: 2rem;
+}
+.lead{
+    color: white;
+}

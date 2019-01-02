@@ -1,0 +1,23 @@
+body {
+    background-image: url(../img/MapleStory_A/f13685a018f308e679c2ccbaf8c84eb3.JPG);
+    background-position: center;
+    background-size: cover;
+}
+.container{
+    text-align: center;
+    background-color: #FFF9C4;
+}
+.row{
+    text-align: center;
+}
+p{
+    font-size: 2rem;
+    color: #0097A7;
+}
+h5{
+    font-size: 0.1rem;
+    color: #0097A7;
+}
+.lead{
+    color: white;
+}

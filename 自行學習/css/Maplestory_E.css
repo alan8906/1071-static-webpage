@@ -1,0 +1,22 @@
+body{
+    background-color: #FFF9C4;
+}
+.container{
+    margin-top: 2.5rem;
+    text-align: center;
+    color: #0097A7;
+    
+}
+.content{
+    margin-top: 4rem;
+}
+img{
+    margin: 1rem;
+}
+p{
+    font-size: 2rem;
+}
+h3{
+    font-size: 5rem;
+    margin: 2rem;
+}

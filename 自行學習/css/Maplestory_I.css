@@ -1,0 +1,22 @@
+body {
+    background-color: #FFF9C4;
+ }
+ 
+ .container{
+     text-align: center;
+     background-color: #FFF9C4;
+     margin-top: 2.5rem;
+ }
+ h1{
+     color: #0097A7;
+     font-size: 5rem;
+ }
+ p{
+     color: #0097A7;
+     font-size: 2rem;
+     margin-top: 2rem;
+ }
+ 
+ .lead{
+     color: white;
+ }
