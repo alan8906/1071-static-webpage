@@ -62,4 +62,4 @@
 我接下來就都不用做了
 
 # 自行學習
-### [自行學習]()
+### [自行學習](https://alan8906.github.io/1071-static-webpage/%E8%87%AA%E8%A1%8C%E5%AD%B8%E7%BF%92/MapleStory_A.html)
