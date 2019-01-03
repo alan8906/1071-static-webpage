@@ -1,11 +1,8 @@
 body {
-    background-image: url(../img/MapleStory_A/f13685a018f308e679c2ccbaf8c84eb3.JPG);
-    background-position: center;
-    background-size: cover;
+    background-color: #FFF9C4;
 }
 .container{
     text-align: center;
-    background-color: #FFF9C4;
 }
 .row{
     text-align: center;
